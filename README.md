@@ -15,7 +15,7 @@
   <img src="assets/falapc.png" alt="Tela do FalaPC" width="100%">
 </p>
 
-> **Este repositório distribui apenas o executável.** O código-fonte do FalaPC não é público. O programa está na aba **[Releases](https://github.com/fabyo/falapc/releases)**.
+> **Este repositório distribui apenas o executável.** O código-fonte do FalaPC não é público. O programa está na seção **[Releases](https://github.com/fabyo/falapc/releases)**.
 
 ---
 
@@ -57,7 +57,7 @@ Dublagem feita por **FalaPC (Fabyo)**. Mais jogos virão.
 
 ## 📥 Como instalar
 
-1. Abra a aba **[Releases](https://github.com/fabyo/falapc/releases/latest)** e baixe o **`FalaPC.exe`**.
+1. Abra a seção **[Releases](https://github.com/fabyo/falapc/releases/latest)** e baixe o **`FalaPC.exe`**.
 2. Coloque o arquivo numa pasta onde você tenha permissão de escrita, por exemplo `Documentos\FalaPC`. Ele é **portátil**: não precisa instalar nada, nem o .NET. Os dados ficam numa pasta `.falapc` ao lado do executável.
 3. Dê dois cliques no `FalaPC.exe`.
 
