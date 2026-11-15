@@ -101,7 +101,9 @@ Todo jogo do catálogo tem **"Restaurar áudio original"**. O catálogo é atual
 
 ## 🔒 Privacidade
 
-O FalaPC **só faz requisições de leitura**: baixa catálogo, capas, amostras, vídeos e pacotes. Ele **não envia** a sua biblioteca nem dados pessoais para nenhum servidor.
+O FalaPC baixa catálogo, capas, amostras, vídeos e pacotes. Ele **não envia** a sua biblioteca nem dados pessoais para nenhum servidor.
+
+A partir da versão 1.0.13, para sabermos quantas pessoas usam o FalaPC e quais dublagens são baixadas, ele manda um **número anônimo** sorteado no seu próprio PC (sem nome, e-mail, conta ou dados do computador) junto com a versão do app, só ao checar atualização e ao baixar uma dublagem. Esse número fica em `.falapc\instalacao.id`; se você apagar o arquivo, outro é sorteado.
 
 ---
 
