@@ -41,9 +41,9 @@ Quem já tentou sabe como costuma ser: baixar um pacote, descobrir a pasta certa
 
 ---
 
-## 🎧 Primeira dublagem: Half-Life: Alyx
+## 🎧 Destaque: Half-Life: Alyx dublado
 
-A primeira dublagem do catálogo é a de **Half-Life: Alyx**, em finalização:
+A dublagem de **Half-Life: Alyx** já está no catálogo:
 
 - criada com inteligência artificial e **100% revisada**;
 - interpretação com **expressão e emoção**;
@@ -51,7 +51,32 @@ A primeira dublagem do catálogo é a de **Half-Life: Alyx**, em finalização:
 - efeitos de voz e ambiência tratados para ficar o mais próximo possível do real;
 - **menus e legendas oficiais em português**, para uma imersão total no idioma.
 
-Dublagem feita por **FalaPC (Fabyo)**. Mais jogos virão.
+Dublagem feita por **FalaPC (Fabyo)**.
+
+---
+
+## 🎮 Jogos no catálogo
+
+<p align="center">
+  <img src="assets/catalogo.png" alt="Catálogo do FalaPC" width="100%">
+</p>
+
+| Jogo | O que vem em português | Feito por |
+|---|---|---|
+| Half-Life: Alyx | dublagem completa, com lipsync | FalaPC (Fabyo) |
+| Bulletstorm VR | falas e vídeos dublados | Bruskizon |
+| Killer Frequency | 4.223 falas dubladas | Fabyo (FalaVR) |
+| Medal of Honor Airborne | 1.736 falas e 11 vídeos dublados, textos | Bruskizon · textos da tradução GameVicio |
+| Moss | narração e diálogos dublados, textos | Bruskizon |
+| Moss: Book II | narração e diálogos dublados | Bruskizon |
+| Moss: The Forgotten Relic | narração e diálogos de Moss 1 e 2 dublados | Bruskizon |
+| Real VR Fishing | menus, legendas e tutorial dublado | Fabyo (FalaVR) |
+| The Living Remain | 270 falas dubladas | Juninhugg |
+| The Stanley Parable: Ultra Deluxe | narrador dublado, 2.016 falas | FalaPC (Fabyo) |
+| The Walking Dead Onslaught | falas dubladas | Juninhugg |
+| Metro Awakening | *em breve* | FalaPC (Fabyo) |
+
+Todo jogo do catálogo tem **"Restaurar áudio original"**. O catálogo é atualizado pelo servidor, então jogos novos aparecem sem precisar baixar outro FalaPC.
 
 ---
 
